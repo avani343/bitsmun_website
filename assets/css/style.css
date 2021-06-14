@@ -1495,6 +1495,20 @@ section {
   line-height: 26px;
   color: #666;
 }
+.member-info-event p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #666;
+  
+}
+.member-info-event1 p {
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 16px;
+  line-height: 26px;
+  color: #666;
+  
+}
 
 .team .member:hover .social {
   bottom: 0;
