@@ -1495,6 +1495,20 @@ section {
   line-height: 26px;
   color: #666;
 }
+.member-info-event p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #666;
+  
+}
+.member-info-event1 p {
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 16px;
+  line-height: 26px;
+  color: #666;
+  
+}
 
 .team .member:hover .social {
   bottom: 0;
@@ -2367,9 +2381,4 @@ section {
   height: 100%;
   width: 100%;
   background: white;
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 8a29019f436c066c9a8af72a358ef30c7fd3a04d
 }
